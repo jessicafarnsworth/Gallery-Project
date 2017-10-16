@@ -1,0 +1,94 @@
+@charset "UTF-8";
+/* CSS Document */
+
+header {
+  background-color: #84b4b1;
+  color: #fff;
+  text-align: center;
+  padding: 30px 0 120px;
+}
+header h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 65px;
+  font-weight: 400;
+  letter-spacing: 3px;
+  line-height: 0.8;
+  padding-top: 50px;
+  font-family: "Montserrat", sans-serif;
+}
+header h1 span {
+  text-transform: uppercase;
+  letter-spacing: 7px;
+  font-size: 25px;
+  line-height: 1;
+}
+header p {
+  padding-top: 30px;
+}
+}
+#logo{
+    width:1334px;
+    display: inline;
+}
+ul {
+    font-family: 'Open Sans', sans-serif;
+    font-weight:800;
+    list-style-type: none;
+    margin: 0px;
+    padding: 1px;
+    text-align:center;
+    z-index:15;
+    position:absolute;
+    left:55px;
+}
+
+li {
+    display:inline-block;
+    overflow-x: hidden
+}
+
+li a {
+    display: block;
+    color: #855D47;
+    text-align: center;
+    padding: 15px 70px;
+    text-decoration: none;
+    border: 2px black;
+    overflow-x: hidden
+}
+
+li a:hover {
+    color:#43251A;
+}
+
+
+#name{
+    top:1400px;
+    left:70px;
+    position:absolute;
+    text-align: center;
+    display:center;
+    overflow-x: hidden
+}
+#address{
+    top:1370px;
+    right:70px;
+    position:absolute;
+    text-align: center;
+    overflow-x: hidden
+}
+footer{
+    height:200px;
+    width:1350px;
+    background-color:#749D92;
+    overflow-x: hidden
+}
+.box{
+top:1370px;
+right: 600px;
+left: 600px;
+position:absolute;
+background-color:#749D92;
+    
+}
